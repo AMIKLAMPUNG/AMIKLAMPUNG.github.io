@@ -18,7 +18,7 @@ nav{
     align-items: center;
 }
 nav img {
-    width: 260px;
+    width: 250px;
 }
 .nav-link {
     flex: 1;
@@ -87,7 +87,7 @@ nav .fa{
 }
 @media(max-width:700px){
     nav img {
-        width: 260px;
+        width: 250px;
     }
     .text-box h1{
         font-size: 30px;
